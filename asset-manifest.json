@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-materials-collection/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-materials-collection/static/js/main.0364c4bb.js",
+    "index.html": "/goit-react-materials-collection/index.html",
+    "main.7acaea2f.css.map": "/goit-react-materials-collection/static/css/main.7acaea2f.css.map",
+    "main.0364c4bb.js.map": "/goit-react-materials-collection/static/js/main.0364c4bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0364c4bb.js"
+  ]
+}
